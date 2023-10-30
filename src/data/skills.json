@@ -44,6 +44,10 @@
     "imageSrc": "skills/aws.png"
   },
   {
+    "title": "mongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
     "title": "Postman",
     "imageSrc": "skills/postman.png"
   }

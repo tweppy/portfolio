@@ -8,10 +8,5 @@
     "type": "github",
     "link": "https://www.github.com/tweppy",
     "imageSrc": "contact/githubIcon.png"
-  },
-  {
-    "type": "linkedin",
-    "link": "https://www.linkedin.com/",
-    "imageSrc": "contact/linkedinIcon.png"
   }
 ]
