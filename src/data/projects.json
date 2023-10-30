@@ -1,0 +1,51 @@
+[
+  {
+    "title": "React e-Wallet",
+    "imageSrc": "projects/ewallet.png",
+    "description": "An e-wallet where you add, shuffle, delete credit cards.",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/tweppy/react-wallet"
+  },
+  {
+    "title": "React Todo",
+    "imageSrc": "projects/todo.png",
+    "description": "Basic Frontend Todo app where you can add, delete, check off tasks.",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/tweppy/react-todo"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This.",
+    "skills": ["React", "Tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "PLACEHOLDER",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "PLACEHOLDER",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "PLACEHOLDER",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
+
