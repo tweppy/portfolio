@@ -18,10 +18,10 @@
   {
     "title": "Portfolio",
     "imageSrc": "projects/project.png",
-    "description": "This.",
+    "description": "This portfolio website!",
     "skills": ["React", "Tailwind"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/tweppy/portfolio"
   },
   {
     "title": "PLACEHOLDER",
