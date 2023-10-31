@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Fullstack Todo App",
+    "imageSrc": "projects/project.png",
+    "description": "A Fullstack Todo app where you can add, delete, and mark tasks as completed.",
+    "skills": ["React", "Tailwind", "Express", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/tweppy/mern-todo"
+  },
+  {
+    "title": "Quiztopia",
+    "imageSrc": "projects/project.png",
+    "description": "A quiz app that uses JWT for auth and bcryptjs to hash passwords. It provides various functionalities such as account signup and login, quiz creation, adding questions to quizzes, user scores, and detailed insights for administrators.",
+    "skills": ["AWS", "Serverless", "JWT"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/tweppy/quiztopia-api"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This portfolio website!",
+    "skills": ["React", "Tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/tweppy/portfolio"
+  },
+  {
+    "title": "Swing Notes",
+    "imageSrc": "projects/project.png",
+    "description": "A CRUD notes taking app with account creation and authorisation. Currently building a frontend in React.",
+    "skills": ["Express", "MongoDB", "JWT"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/tweppy/swing-notes-api"
+  }
+]
