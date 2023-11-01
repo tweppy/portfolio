@@ -18,7 +18,7 @@ This portfolio is built using Vite, React, and Tailwind CSS to create a sleek an
 
 ## Getting Started
 
-If you'd like to check out my portfolio and explore my work, you can simply visit [My Portfolio](https://your-portfolio-url.com).
+If you'd like to check out my portfolio and explore my work, you can simply visit [My Portfolio]([https://your-portfolio-url.com](https://audrey-thelin.netlify.app/)).
 
 ## Feedback and Contributions
 
