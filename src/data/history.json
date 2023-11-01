@@ -4,9 +4,10 @@
     "organisation": "Folkuniversitetet",
     "startDate": "2022",
     "endDate": "2024 (Online)",
-    "experiences": ["Fullstack training with a focus on Javascript in web development for both Frontend and Backend",  
-    "Built several projects using React, Node, Express, TypeScript, AWS etc.", 
-    "Worked with group projects in agile environments using sprints and GitHub projects"
+    "experiences": [
+      "Fullstack training with a focus on Javascript in web development for both Frontend and Backend",
+      "Built several projects using React, Node, Express, TypeScript, AWS etc.",
+      "Worked with group projects in agile environments using sprints and GitHub projects"
     ],
     "link": "https://www.folkuniversitetet.se/vara-skolor/yh-utbildningar/alla-yh-utbildningar/it-data/javascriptutvecklare-distans/",
     "imageSrc": "history/edu.png",
@@ -26,10 +27,7 @@
     "organisation": "Helsingborg Hospital",
     "startDate": "2022",
     "endDate": "2022 (Summer job)",
-    "experiences": [
-      "Cleaned rooms and offices",
-      "Patient meal prep and ordering according to dietary restrictions"
-    ],
+    "experiences": ["Cleaned rooms and offices", "Patient meal prep and ordering according to dietary restrictions"],
     "imageSrc": "history/briefcase.png",
     "type": "Work"
   },
@@ -38,10 +36,7 @@
     "organisation": "Open Outcry Brewing, Chicago, USA",
     "startDate": "2018",
     "endDate": "2022",
-    "experiences": [
-      "Cooked and prepped food",
-      "Helped put in orders and made sure kitchen was always fully stocked"
-    ],
+    "experiences": ["Cooked and prepped food", "Helped put in orders and made sure kitchen was always fully stocked"],
     "imageSrc": "history/briefcase.png",
     "type": "Work"
   },
@@ -50,10 +45,7 @@
     "organisation": "The Glacier Student Newspaper",
     "startDate": "2015",
     "endDate": "2018",
-    "experiences": [
-      "Wrote and edited articles",
-      "Designed and put together section layouts ready for print in Adobe InDesign"
-    ],
+    "experiences": ["Wrote and edited articles", "Designed and put together section layouts ready for print in Adobe InDesign"],
     "imageSrc": "history/briefcase.png",
     "type": "Work"
   }
