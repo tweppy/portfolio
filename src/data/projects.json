@@ -2,8 +2,8 @@
   {
     "title": "Fullstack Todo App",
     "imageSrc": "projects/project.png",
-    "description": "A Fullstack Todo app where you can add, delete, and mark tasks as completed.",
-    "skills": ["React", "Tailwind", "Express", "MongoDB"],
+    "description": "A Fullstack MERN Todo app where you can add, delete, and mark tasks as completed.",
+    "skills": ["React", "Tailwind", "Node", "Express", "MongoDB"],
     "demo": "https://www.example.com",
     "source": "https://github.com/tweppy/mern-todo"
   },
@@ -27,7 +27,7 @@
     "title": "Swing Notes",
     "imageSrc": "projects/project.png",
     "description": "A CRUD notes taking app with account creation and authorisation. Currently building a frontend in React.",
-    "skills": ["Express", "MongoDB", "JWT"],
+    "skills": ["Node", "Express", "MongoDB", "JWT"],
     "demo": "https://www.example.com",
     "source": "https://github.com/tweppy/swing-notes-api"
   }

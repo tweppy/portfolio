@@ -1,9 +1,9 @@
 {
   "aboutMe": "I'm a driven and creative gal looking to start a new chapter in life with a career change to web development. After spending a big chunk of my 20s in the United States studying Mass Communication and working a blue-collar job, I returned to the motherland in 2022 and decided to go back to school.",
   "whyDev": "I've always enjoyed creating things myself, mainly art and writing. Coding was another way to create something and see it come to life. Being a coder is kind of like being Dr. Frankenstein and creating life. Well, except you're creating something useful and inspiring, not some morally grey monster. As I kept on immersing myself in the world of coding, it slowly added onto other areas of my life. When I yearned for some writing prompts, I wrote a simple plot generator in vanilla Javascript and got to work. I'm still learning, but I love the process of problem-solving and bringing ideas to life through code. I'm excited to find an internship that lets me apply what I've learned in a real-world setting, contribute to user-friendly projects, and keep growing as a developer!",
-  
+
   "aboutSchool": "I'm currently enrolled in a two-year higher vocational Javascript developer programme (yrkeshögskola). It's a mix of theoretical and practical studies, including about 20 weeks of internships split into two separate periods. Through several courses, I'm learning how to build Frontend and Fullstack apps using mainly React and Node, as well as databases like AWS DynamoDB and mongoDB. During group projects, we work in an agile or scrum environment.",
-  "aboutLia": "The internship (LIA Praktik) is a 10-week unpaid internship where I get to experience what it's like in a real-world job within Frontend/Fullstack development.",
+  "aboutLia": "The internship (LIA Praktik) is a 10-week unpaid internship where I get to experience what it's like in a real-world job within Frontend/Backend/Fullstack development.",
   "courses": ["Agile Methods", "Backend Fundamentals (Node, Express)", "Backend Advanced (AWS)", "Databases", "Deployment", "Thesis Project", "Frontend Frameworks (React)", "HTML & CSS", "Javascript", "Internship 1", "Internship 2", "Typescript"],
   "languages": ["English", "Swedish"],
   "links": [
